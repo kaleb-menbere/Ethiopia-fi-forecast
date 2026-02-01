@@ -1,0 +1,67 @@
+
+## KEY INSIGHTS FROM EXPLORATORY DATA ANALYSIS
+
+### 1. ACCOUNT OWNERSHIP TRENDS
+- **Slowing Growth**: Account ownership grew only +3pp from 2021-2024 (46% → 49%), 
+  despite massive mobile money expansion (65M+ accounts opened)
+- **Gender Gap Persists**: 6 percentage point gap between male (52%) and female (46%) 
+  account ownership in 2024
+- **Historical Growth**: Strong growth from 2014-2021 (+22pp), but slowdown post-2021
+
+### 2. MOBILE MONEY DYNAMICS
+- **Rapid Adoption**: Mobile money accounts grew exponentially, but this hasn't fully 
+  translated to increased account ownership in surveys
+- **Registered vs. Active Gap**: High number of registered accounts (65M+) but lower 
+  active usage as reported in surveys
+- **Competitive Landscape**: Multiple players (Telebirr 2021, M-Pesa 2023) driving 
+  infrastructure but not immediate ownership gains
+
+### 3. INFRASTRUCTURE CORRELATIONS
+- **Strong Infrastructure Growth**: Mobile penetration (45%), 4G coverage expanding
+- **Weak Correlation**: Infrastructure expansion shows weaker than expected correlation 
+  with account ownership in recent years
+- **Leading Indicators**: Mobile penetration and agent density show potential as 
+  leading indicators but need longer time series
+
+### 4. EVENT IMPACT ANALYSIS
+- **Telebirr Launch (2021)**: Coincided with growth period but didn't prevent 
+  subsequent slowdown
+- **M-Pesa Entry (2023)**: Too recent to assess full impact, but increased competition
+- **Policy Events**: NFIS-II strategy (2021) and forex liberalization (2024) may have 
+  longer-term impacts
+
+### 5. DATA GAPS LIMITING ANALYSIS
+- **Sparse Temporal Data**: Only 5 data points for account ownership (2014, 2017, 2021, 2023, 2024)
+- **Limited Disaggregation**: Minimal urban/rural, income-level, regional breakdowns
+- **Infrastructure Time Series**: Missing year-over-year infrastructure metrics
+- **Usage Depth**: Limited data on active vs. registered accounts, transaction patterns
+
+### HYPOTHESES FOR TESTING
+
+1. **Registered-Active Gap Hypothesis**: High mobile money registration hasn't translated 
+   to active usage due to low transaction frequency or dormant accounts.
+
+2. **Saturation Hypothesis**: Early adopters captured by 2021, reaching remaining 
+   unbanked population requires different approaches.
+
+3. **Infrastructure-Lag Hypothesis**: Infrastructure investments (4G, agents) have 
+   longer lag times before impacting survey-measured inclusion.
+
+4. **Digital Literacy Barrier**: Technology adoption outpacing digital literacy, 
+   limiting active usage among new adopters.
+
+5. **Gender-Specific Barriers**: Structural barriers (income, access, social norms) 
+   maintaining gender gap despite infrastructure expansion.
+
+### RECOMMENDATIONS FOR IMPACT MODELING
+
+1. **Focus on Usage Metrics**: Shift from account ownership to active usage as primary 
+   success metric.
+
+2. **Incorporate Lag Effects**: Model infrastructure impacts with 12-24 month lags.
+
+3. **Gender-Disaggregated Modeling**: Separate models for male/female adoption patterns.
+
+4. **Regional Analysis**: If data allows, model urban/rural differences.
+
+5. **Competition Dynamics**: Include market concentration metrics in models.
