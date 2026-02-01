@@ -1,0 +1,38 @@
+
+EVENT IMPACT MODELING METHODOLOGY
+=================================
+
+1. DATA SOURCES:
+   - Historical observations from enriched dataset
+   - Event catalog from Ethiopia's financial inclusion timeline
+   - Comparable country evidence from peer nations (Kenya, India, Tanzania)
+   - Expert judgment based on market analysis
+
+2. MODELING APPROACH:
+   - Direct attribution for events with pre/post data (Telebirr launch)
+   - Comparable country analysis for similar events
+   - Lag modeling based on event type:
+     * Product launches: 0-6 month lag
+     * Policy changes: 6-24 month lag
+     * Infrastructure: 6-18 month lag
+   - Impact magnitude scaled by event category
+
+3. KEY ASSUMPTIONS:
+   - Events have independent, additive impacts
+   - Impacts follow gradual adoption curves
+   - No negative interactions between events
+   - Market conditions remain stable
+   - Survey measurements align with actual adoption
+
+4. LIMITATIONS:
+   - Limited historical data for rigorous validation
+   - Complex event interactions not captured
+   - External economic factors not modeled
+   - Survey timing may not match event timing
+   - Qualitative estimates for many impacts
+
+5. UNCERTAINTY QUANTIFICATION:
+   - Confidence levels assigned (high/medium/low)
+   - Scenario analysis in forecasting phase
+   - Sensitivity testing of key parameters
+   - Transparent documentation of assumptions
