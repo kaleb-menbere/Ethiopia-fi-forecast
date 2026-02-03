@@ -1,0 +1,119 @@
+/* dashboard/assets/style.css */
+
+/* Custom styles for the dashboard */
+
+/* Main container */
+.main .block-container {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+/* Headers */
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+}
+
+/* Sidebar */
+.css-1d391kg, section[data-testid="stSidebar"] {
+    background-color: #1E3A8A;
+    color: white;
+}
+
+.css-1d391kg h1, 
+.css-1d391kg h2, 
+.css-1d391kg h3,
+.css-1d391kg h4,
+.css-1d391kg h5,
+.css-1d391kg h6 {
+    color: white;
+}
+
+/* Metric cards */
+.metric-card {
+    transition: transform 0.2s;
+}
+
+.metric-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+/* Buttons */
+.stButton > button {
+    border-radius: 8px;
+    font-weight: 500;
+    transition: all 0.2s;
+}
+
+.stButton > button:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+/* Dataframe styling */
+.dataframe {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.dataframe th {
+    background-color: #3B82F6;
+    color: white;
+    font-weight: 600;
+    padding: 0.75rem;
+    text-align: left;
+}
+
+.dataframe td {
+    padding: 0.75rem;
+    border-bottom: 1px solid #E5E7EB;
+}
+
+.dataframe tr:hover {
+    background-color: #F9FAFB;
+}
+
+/* Plotly chart container */
+.js-plotly-plot {
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+/* Progress bars */
+.stProgress > div > div > div {
+    background-color: #3B82F6;
+}
+
+/* Expander */
+.streamlit-expanderHeader {
+    font-weight: 600;
+    background-color: #F8FAFC;
+    border-radius: 5px;
+}
+
+/* Success, warning, info boxes */
+.stAlert {
+    border-radius: 8px;
+    border-left: 5px solid;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: #F1F1F1;
+    border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
