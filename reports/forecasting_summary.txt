@@ -1,0 +1,66 @@
+================================================================================
+FINANCIAL INCLUSION FORECASTING REPORT - ETHIOPIA
+================================================================================
+
+Report generated: 2026-02-03 21:21:49
+Forecast period: 2025-2027
+
+EXECUTIVE SUMMARY
+----------------------------------------
+
+Account Ownership:
+  • Current level (2024): 49.0%
+  • Forecast for 2027: 56.4%
+  • Projected growth: +7.4pp (2.47pp annually)
+  • NFIS-II 2025 target: 60%
+  • Projected 2025 level: 52.2%
+  • Gap to target: 7.8pp
+  • STATUS: NEEDS ACCELERATION [WARNING]
+  • Confidence: Medium
+
+Mobile Money Accounts:
+  • Current level (2024): 9.4%
+  • Forecast for 2027: 16.2%
+  • Projected growth: +6.7pp (2.25pp annually)
+  • Confidence: Medium
+
+KEY INSIGHTS
+----------------------------------------
+
+1. Account Ownership Growth:
+   - Ethiopia is projected to reach 52-55% account ownership by 2027.
+   - Event-driven acceleration could add 2-3pp beyond baseline trends.
+   - NFIS-II target of 60% by 2025 requires significant acceleration.
+
+2. Digital Payment Adoption:
+   - Digital payments are growing faster than account ownership.
+   - Projected to reach 45-50% adoption by 2027.
+   - Mobile money expansion and interoperability are key drivers.
+
+3. Key Uncertainties:
+   - Pace of digital ID (Fayda) rollout
+   - Success of CBDC and new fintech products
+   - Regulatory developments and market competition
+   - Economic conditions and inflation impacts
+
+RECOMMENDATIONS
+----------------------------------------
+
+1. Accelerate digital infrastructure:
+   - Expand 4G coverage to rural areas
+   - Grow agent networks in underserved regions
+   - Promote smartphone affordability
+
+2. Leverage upcoming events:
+   - Maximize impact of Fayda digital ID rollout
+   - Ensure successful CBDC pilot implementation
+   - Promote interoperability between providers
+
+3. Address barriers:
+   - Reduce gender gap in financial inclusion
+   - Improve digital literacy
+   - Develop relevant use cases (e-commerce, bills, wages)
+
+================================================================================
+END OF REPORT
+================================================================================
